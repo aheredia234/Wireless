@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Wireless</string>
+    <string name="imgLogo">Logo</string>
+    <string name="Switch">Switch to Verizon today and save up to 30% compared to competitors!</string>
+    <string name="start">Start saving today</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="address">Billing Address</string>
+    <string name="zip">Zip Code</string>
+    <string name="auto">Do you want to have automatic payments?</string>
+    <string name="setUp">Account Setup</string>
+    <string name="y">Yes</string>
+    <string name="n">No</string>
+    <string name="city">City</string>
+    <string name="submit">Submit</string>
+    <string name="select">Create your Plan</string>
+    <string name="data">Unlimited Data ($60/month)</string>
+    <string name="minutes">Unlimited Minutes ($30/month)</string>
+    <string name="home">Add House Phone ($50)</string>
+    <string name="discount">Get 15% if you choose more than one addition to your package</string>
+    <string name="lines">Number of lines</string>
+    <string name="numLines">Base of $50 dollars per month plus $15 per line</string>
+    <string name="next">Next</string>
+    <string name="getTol">Get total</string>
+    <string name="thank">Thank you for choosing Verizon</string>
+</resources>
